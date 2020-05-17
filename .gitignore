@@ -1,0 +1,12 @@
+node_modules
+yarn.lock
+dist
+.vscode
+npm-debug.log
+yarn-error.log
+
+.next
+.env
+.env.*
+
+.now
